@@ -8,7 +8,9 @@ Thanks for checking out this Application.
 ## Overview
 
 ### Links
-- Live Site URL: ([https://beautiful-sopapillas-0df4b7.netlify.app])
+-[Live Site](https://beautiful-sopapillas-0df4b7.netlify.app)
+
+
 
 ## My process
 
